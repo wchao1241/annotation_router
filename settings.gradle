@@ -1,0 +1,2 @@
+include ':app', ':easy-annotation', ':easy-compiler', ":easy-core"
+rootProject.name = 'annotation_router'
